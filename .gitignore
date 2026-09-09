@@ -1,0 +1,6 @@
+# Compiled binary
+/ocean
+
+# OS junk
+.DS_Store
+Thumbs.db
